@@ -17,7 +17,7 @@ This project involves disease prediction app using various machine learning algo
 ## DATASET
 
 <br>The data set used in this is for diabetes prediction is -: https://github.com/sher-gaha/Datasets/blob/main/diabetes.csv
-<br>The data set used in this is for Parkinson's Disease prediction is -: https://github.com/sher-gaha/Datasets/tree/main/parkinsons%20data
+<br>The data set used in this is for Parkinson's Disease prediction is -: https://github.com/sher-gaha/Datasets/blob/main/parkinsons.csv
 <br>The data set used in this is for Heart Disease prediction is -: https://github.com/sher-gaha/Datasets/blob/main/heart.csv
 
 ## DESCRIPTION
